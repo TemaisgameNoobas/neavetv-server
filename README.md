@@ -11,7 +11,7 @@ Clone this repository: ```git clone https://github.com/TemaisgameNoobas/neavetv-
 
 Install the requirements: ```pip3 install requirements.txt```
 
-Edit the config inside ```app.py```
+Edit the config inside ```config.py```
 
 Get the web files and put them there
 
