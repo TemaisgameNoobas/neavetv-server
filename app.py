@@ -4,9 +4,9 @@
 import cherrypy
 import os
 import config
-app_port = config.app_port
-allow_outside_connections = config.allow_outside_connections
-app_listenip = config.app_listenip
+app_port = str(config.app_port)
+allow_outside_connections = str(config.allow_outside_connections)
+app_listenip = str(config.app_listenip)
 class Main(object):
 	@cherrypy.expose
 	def index(self):
