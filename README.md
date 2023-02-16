@@ -13,7 +13,7 @@ Install the requirements: ```pip3 install requirements.txt```
 
 Edit the config inside ```config.py```
 
-Get the web files and put them there
+Get the web files and put them there (they will be published soon)
 
 Rename the web files directory to ```www```
 
